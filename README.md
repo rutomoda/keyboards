@@ -5,4 +5,4 @@ If you like to build unusual keyboards, too, have a look at my designs!
 
 Instagram: [@rutomoda](https://www.instagram.com/rutomoda/)
 Twitter: [@rutomoda](https://twitter.com/rutomoda)
-Website: [rutomoda.com]
+Website: [rutomoda.com](http://rutomoda.com)
