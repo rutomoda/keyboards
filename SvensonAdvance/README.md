@@ -40,6 +40,6 @@ There is currently no support for hotswap sockets as the design relies on the PC
 
 License
 ===
-The Svenson Advance case design and all its files are published and licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See also: [https://creativecommons.org/licenses/by/4.0/]
+The Svenson Advance case design and all its files are published and licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See also: https://creativecommons.org/licenses/by/4.0/
 
 Use of the files for manufacturing is at own risk, no guarantee of any kind is provided.
