@@ -11,7 +11,7 @@ reset button. Cables may not be thicker than 6mm in diameter. Connectors may hav
 
 License and Warranty Disclaimer
 ===
-The Ellipsis case design and all its files are published and licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See also: [https://creativecommons.org/licenses/by/4.0/]
+All designs and their corresponding files in this repository are published and licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See also: [https://creativecommons.org/licenses/by/4.0/]
 
 Use of the files for manufacturing is at own risk, no guarantee of any kind is provided!
 

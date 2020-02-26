@@ -1,12 +1,15 @@
-rutomoda - Lu's little keyboard corner
+Capbox 6x4 Base (Revision 1)
 ===
-Hi, I'm Lu! I love to design and build unusual keyboards in my spare time!
+6 by 4 1U grid keycap box. Originally designed to hold a Planck or similar 4x12 ortho layout. Can of course be used for other layouts.
 
-If you like to build unusual keyboards, too, have a look at my designs!
+2U files add a flexible 2x 1U / 1x 2U pocket on the right side for a 2U Enter key. U2 files feature the same flex pocket, but on the left side.
 
-Instagram: [@rutomoda](https://www.instagram.com/rutomoda/)
-Twitter: [@rutomoda](https://twitter.com/rutomoda)
-Website: [rutomoda.com](https://rutomoda.com)
+All Base versions are without any Rutomoda logos.
+
+TO-DO
+===
+Add HiPro Capboxes and DXFs for laser cutting lids.
+
 
 License and Warranty Disclaimer
 ===
