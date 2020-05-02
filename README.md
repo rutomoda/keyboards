@@ -10,7 +10,11 @@ Website: [rutomoda.com](https://rutomoda.com)
 
 License and Warranty Disclaimer
 ===
-All designs and their corresponding files in this repository are published and licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See also: [https://creativecommons.org/licenses/by/4.0/]
+All designs and their corresponding files in this repository are published and licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+[![CC BY 4.0][cc-by-image]][cc-by]
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 Use of the files for manufacturing is at own risk, no guarantee of any kind is provided!
 
