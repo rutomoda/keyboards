@@ -2,6 +2,14 @@ BOENT
 ===
 Designed to be manufacturable from bent sheet metal as well as being 3D printable BOENT is a simplistic approach to keyboard storage and display. BOENT can be fixed vertically as well as horizontally. Designed to be used as at least a pair it can accommodate even the widest, highest and thickest keyboards. In the front is an optional mounting opportunity for an name and specification plaque or a simple reinforcement plate to use a BOENT pair as a standalone storage or display stand.
 
+boent-1.pdf
+---
+Technical drawing and dimensions guide.
+
+boent-flat.stl
+---
+This is the flat lay model for sheet metal manufacturing. Bent lines will follow if I can get the export to work.
+
 License and Warranty Disclaimer
 ===
 All designs and their corresponding files in this repository are published and licensed under a [Creative Commons Attribution 4.0 International
