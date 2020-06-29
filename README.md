@@ -4,9 +4,11 @@ Hi, I'm Lu! I love to design and build unusual keyboards in my spare time!
 
 If you like to build unusual keyboards, too, have a look at my designs!
 
-Instagram: [@rutomoda](https://www.instagram.com/rutomoda/)
-Twitter: [@rutomoda](https://twitter.com/rutomoda)
-Website: [rutomoda.com](https://rutomoda.com)
+Instagram: [@rutomoda](https://www.instagram.com/rutomoda/) - All the pictures.
+
+Website: [rutomoda.com](https://rutomoda.com) - More organized pictures.
+
+Thingiverse: [@rutomoda](https://www.thingiverse.com/rutomoda/designs) - some STLs.
 
 License and Warranty Disclaimer
 ===
