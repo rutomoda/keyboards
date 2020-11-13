@@ -9,6 +9,11 @@ Rev 1
 One-of handwire version planned for myself with an 3mm integrated plate. Accepts the Let's Split and Keebio Levinson PCB. Angled switches and LEDs must be handwired and manually added to the QMK firmware. The case has no screws and an optional gasket mount by using 2-3mm rubber tubing glued into the groove of the bottom. Cables are supposed to have angled connectors and are hidden within the case after connecting. Not having screws allows for easy access for connecting and hitting the
 reset button. Cables may not be thicker than 6mm in diameter. Connectors may have to be ground flat if too thick. 
 
+Rev 2
+---
+STEP-files for a screwable version. Assemble in CAD to verify dimensions and adjust tolerances to you production method, maybe add threads to the model. There are two top variants: one with the integrated plate and one with a exchangeable plate. If you want to use a less than 3mm exchangable plate, use the plate spacer. The plate is only secured in the back with screws and then needs to rest on the bottom in the front. This allows for isolation mounting the plate between top and bottom part.
+The weight for the screwable bottom is rudimentary and will be improved upon in later revisions, feel free to adapt the files to your liking.
+
 License and Warranty Disclaimer
 ===
 All designs and their corresponding files in this repository are published and licensed under a [Creative Commons Attribution 4.0 International
