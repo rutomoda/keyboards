@@ -21,9 +21,9 @@ Configurations
 The case is tray mounted and supports 6.5mm and 8mm mounting depths. 8mm is default, 6.5mm needs the 1_5mm_spacer on each mounting point (use soft filament for extra dampening).
 
 The side appearance of the cases can be changed by loading the 01 module into your slicer and then consecutively adding 02 and 03 as parts to change the final print. These are available for all big and small side modules:
-# 01 alone is a small bezel design, which needs the plates additionally manufactured to be closed properly
-# 02 added is a big bezel design, which does NOT use the plates and allows access to the TRRS connector
-# 03 added with 02 is 02, but closes TRRS connector access on the side
+- 01 alone is a small bezel design, which needs the plates additionally manufactured to be closed properly
+- 02 added is a big bezel design, which does NOT use the plates and allows access to the TRRS connector
+- 03 added with 02 is 02, but closes TRRS connector access on the side
 
 The plates support 6.5mm and 8mm mounting for the side panel according to their file name. The wide bezel modules support all mounting depths.
 
