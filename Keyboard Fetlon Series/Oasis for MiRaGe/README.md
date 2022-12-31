@@ -2,6 +2,8 @@ OASIS case for MiRaGe
 ===
 This is a case for the MiRaGe keyboard by Zack Freedman.
 
+![Here should be an example rendering](https://github.com/rutomoda/keyboards/tree/master/Keyboard%20Fetlon%20Series/Oasis%20for%20MiRaGe/example_render.png "OASIS case example rendering")
+
 The cases for left and right side are the same in structure for each side but have slightly different dimensions and are basically mirrored.
 
 All connection points (tray mount and connector tenons) expect M2 heat set inserts. This also means you are going to need M2x6mm screws to screw everything together.
@@ -25,13 +27,17 @@ The side appearance of the cases can be changed by loading the 01 module into yo
 - 02 added is a big bezel design, which does NOT use the plates and allows access to the TRRS connector
 - 03 added with 02 is 02, but closes TRRS connector access on the side
 
-The plates support 6.5mm and 8mm mounting for the side panel according to their file name. The wide bezel modules support all mounting depths.
+The plates support 6.5mm and 8mm mounting for the side panel according to their file name. The wide bezel modules support all mounting depths. The USB shroud is reversible to support 6.5mm and 8mm mounting.
 
 The pen rest void can be filled by loading the pen_rest_plug as a part in your slicer, if you prefer to not have it.
 
 STEP-files
 ===
 Some of the STEP-files are missing, because the export keeps crashing. I will maybe someday fix that. Also naming in the STEP-files is inconsistent, because of copy-pasting in my original design, which I need to clean up one day, maybe.
+
+MCU cover
+===
+There is currently no model / design / file for the MCU cover.
 
 License and Warranty Disclaimer
 ===
