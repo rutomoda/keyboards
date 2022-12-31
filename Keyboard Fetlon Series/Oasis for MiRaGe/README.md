@@ -2,7 +2,7 @@ OASIS case for MiRaGe
 ===
 This is a case for the MiRaGe keyboard by Zack Freedman.
 
-![Here should be an example rendering](https://github.com/rutomoda/keyboards/tree/master/Keyboard%20Fetlon%20Series/Oasis%20for%20MiRaGe/example_render.png "OASIS case example rendering")
+![alt text](https://github.com/rutomoda/keyboards/tree/master/Keyboard%20Fetlon%20Series/Oasis%20for%20MiRaGe/example_render.png "OASIS case example rendering")
 
 The cases for left and right side are the same in structure for each side but have slightly different dimensions and are basically mirrored.
 
