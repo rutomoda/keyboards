@@ -1,5 +1,6 @@
 Weave
 ===
+![weave render](/weave-render.png)
 
 The Weave is a layered / sandwich style case designed for the Prime_E keyboard PCB. 
 
