@@ -2,7 +2,7 @@ OASIS case for MiRaGe
 ===
 This is a case for the MiRaGe keyboard by Zack Freedman.
 
-<img src="example_render.png" width="512" height="341">
+<img src="weave-render.png" width="512" height="341">
 
 The cases for left and right side are the same in structure for each side but have slightly different dimensions and are basically mirrored.
 
